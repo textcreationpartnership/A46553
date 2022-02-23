@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for discovering such as own, or will not disown a late treasonable declaration of war against His Majesty and the horrid principle of assassination ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46553</idno>
+            <idno type="STC">Wing J330</idno>
+            <idno type="STC">ESTC R34056</idno>
+            <idno type="EEBO-CITATION">12350266</idno>
+            <idno type="OCLC">ocm 12350266</idno>
+            <idno type="VID">59958</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59958)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 869:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for discovering such as own, or will not disown a late treasonable declaration of war against His Majesty and the horrid principle of assassination ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>At end of text: Given under our signet at Edinburgh, the thretty day of December 1684.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Treason --  Great Britain --  Early works to 1800.</term>
+               <term>Assassination --  Investigation --  Great Britain --  Sources.</term>
+               <term>Political crimes and offenses --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:59958:1"/>
+            <head>A PROCLAMATION, <hi>For diſcovering ſuch as own, or will not diſown a late Treaſonable Declaration of War againſt His Majeſty, and the horrid Principle of Aſſaſſination.</hi>
+            </head>
+            <head type="sub">
+               <list>
+                  <head>Preſent in CO<g ref="char:V">Ʋ</g>NCIL.</head>
+                  <item>Earl of <hi>Perth,</hi> Lord High Chancellor.</item>
+                  <item>Lord Arch-biſhop of <hi>St. Andrews.</hi>
+                  </item>
+                  <item>Duke of <hi>Queensberry,</hi> Lord High Theſaurer.</item>
+                  <item>Lord Arch-biſhop of <hi>Glaſgow.</hi>
+                  </item>
+                  <item>Marqueſs of <hi>Douglas.</hi>
+                  </item>
+                  <item>Earl of <hi>Drumlanrig.</hi>
+                  </item>
+                  <item>Earl of <hi>Mar.</hi>
+                  </item>
+                  <item>Earl of <hi>Glencairn.</hi>
+                  </item>
+                  <item>Earl of <hi>Strath-more.</hi>
+                  </item>
+                  <item>Earl of <hi>Southeſque.</hi>
+                  </item>
+                  <item>Earl of <hi>Panmure.</hi>
+                  </item>
+                  <item>Earl of <hi>Tweddale.</hi>
+                  </item>
+                  <item>Earl of <hi>Belcarres.</hi>
+                  </item>
+                  <item>Earl of <hi>Kintore.</hi>
+                  </item>
+                  <item>Lord <hi>Teſter.</hi>
+                  </item>
+                  <item>Lord <hi>Kynnaird.</hi>
+                  </item>
+                  <item>L. Preſident of the Seſſion.</item>
+                  <item>L. Regiſter.</item>
+                  <item>L. Advocat.</item>
+                  <item>L. Juſtice-Clerk.</item>
+                  <item>L. <hi>Caſtle-hill.</hi>
+                  </item>
+                  <item>
+                     <hi>Goſ-foord.</hi>
+                  </item>
+               </list>
+            </head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES.</hi> by the Grace of GOD, King of <hi>Great-Britain, France,</hi> and <hi>Ireland,</hi> Defender of the Faith; </signed>
+               <salute>To Our Lyon King at Arms, and his brethren Heraulds, Macers or Our Privy Council, Pur<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evants; and Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Foraſmuch, as ſeveral Inſolent, and Deſperat Rebels, having frequently refuſed the reiterated Offers of Our Clemency, have of late aſſociated them<g ref="char:EOLhyphen"/>ſelves under a pretended Form of Government, in Societies, Fellowſhips, <hi>&amp;c.</hi> and have in their Meetings at laſt pulled off the Mask, under which they formerly endeavoured to Diſguiſe their Bloody and Execrable Principles, and openly and avowedly declared in a late Treaſonable Paper, emitted by them, and affixt at ſeveral Paroch Churches; (Intituled, <hi>The Apologetical Declaration, and Admonitory Vindication of the true Presbyterians of the Church of</hi> Scotland, eſpecially anent Intelligencers and Informers) That they have diſowned Us and Our Authority, and have declared War againſt Us; and from that do infer, that it is not only lawful, but a Duty upon them, to Kill and Murder all who do any manner of way Serve Us, or bear Charge under Us, or who do aſſiſt Our Judicatures, or Forces, in the Execu<g ref="char:EOLhyphen"/>tion of Our Laws (Principles inconſiſtent with all Government and Society, and tending to the Deſtruction of the Lives of Our Loyal and Honeſt Subjects) Therefore We, with advice of the Lords of Our Privy Council, Do here<g ref="char:EOLhyphen"/>by Ordain, That whoſoever ſhall own the ſaid moſt Execrable and Treaſonable Declaration, or Aſſaſſinations therein<g ref="char:EOLhyphen"/>mentioned, and the Principles therein-ſpecified, or whoſoever ſhall refuſe to diſown the ſame, in ſo far as it declares a War a<g ref="char:EOLhyphen"/>gainſt His Sacred Majeſty, and aſſerts that it is lawful to kill ſuch as Serve in Church, State, Army, or Coun<g ref="char:EOLhyphen"/>trey, ſhall be Try'd, and Executed to the Death; And furder, We hereby Require and Command, all Our Good Subjects, eſpecially theſe Dwelling in the South<g ref="char:EOLhyphen"/>ern and Weſtern Shires of this Our ancient Kingdom, beſouth the River of <hi>Tay,</hi> that they be ready upon all occaſions, to concur with Our Magiſtrates and Officers, in ſeeking, ſearching, and apprehending; and that they, and each of them do their outmoſt endeavour, to ſeek, ſearch, delate, and appre<g ref="char:EOLhyphen"/>hend any who ſhall own the ſaid <hi>Apologetical Declaration,</hi> and the Treacherous and Aſſaſſinating Principles therein-mentioned, or refuſe to diſown the ſame, as ſaid is; Certifying them, if they fail herein, they ſhall be proceeded againſt, for their ſaid Colluſion and Connivance, with the outmoſt ſeveri<g ref="char:EOLhyphen"/>ty of Our Laws: As alſo, that when they are Required, they ſhall actually concur to keep and ſecure (as Priſoners) the ſaids Rebels, when they are taken; and to ſearch for, and drive away their Goods, when Required by thoſe Commiſſionated by Us. And ſince theſe Rebels, after Declaring their Helliſh Intentions, for the better performance of their miſchievous Deſigns, do lurk in ſecret, and are never diſcerned, but in the Acts of their horrid Aſſaſſinations, and paſſing up and down unknown amongſt Our Loyal Subjects, take opportunity to Murder and Aſſaſſinat, and it being ne<g ref="char:EOLhyphen"/>ceſſary to provide a Remedy againſt ſo imminent a danger, which cannot be ſo well done, as when the good are differenced from the bad by Diſcriminating Signs; and leaſt conſtant Inqueries may occaſion a continual trouble, even to Our good Subjects; Therefore as a Remedy for theſe Inconveniences, We Declare it to be Our Royal Will and Pleaſure; and We hereby Command and Require, all Our Subjects within this Our ancient Kingdom, both Men and Women, paſt the age of ſixteen years, not to preſume to Travel, without Teſtificats of their Loyalty, and good Principles, which they are to have in manner following. And We hereby Command all Heretors, Liferenters, and Wodſetters; and in their abſence, their Factors and Chamberlains, to Con<g ref="char:EOLhyphen"/>vocat all the Inhabitants upon their Lands, in every reſpective Paroch, ad to bring them before any of Our Privy Counſellors, or Our Commiſſioners appointed by Our Council, in the Shires and bounds underwritten, <hi>viz. Lanerk, Renſnv, Air, Dumbartoun, Stirling, Nithiſdale,</hi> and Stewartry of <hi>Annandale, Wigtoun,</hi> and Stewartry of <hi>Kirkcudbright, Berwick, Selkirk, Fife,</hi> and <hi>Kinroſs,</hi> Mid, Weſt, and Eaſt <hi>Lothians,</hi> and <hi>Bathgate,</hi> (including Our City of <hi>Edinburgh,</hi> with the Suburbs, and Liberties thereof,) and Bounds betwixt <hi>Spey</hi> and <hi>Neſs,</hi> (including <hi>Strath-Spey,</hi> and <hi>Abernethy</hi>) or any three of them, or before the Sheriffs of the Shire, where there are no ſuch Commiſſion, to deliver to them, an exact Liſt of the Names of all their Inhabitants; and the Maſter and all the Inhabitants, ſhall in ſolemn man<g ref="char:EOLhyphen"/>ner in preſence of the ſaids Commiſſioners, take the following Oath: To wit,</p>
+            <p>
+               <hi>I</hi> A. B. Do hereby abhore, renounce, and diſown, in preſence of the Almighty God, the pretended Declaration of War, lately affixed at ſeveral Paroch Churches in ſo far as it declares a War againſt His Sacred Majesty, and aſſerts that it is lawful to Kill ſuch as Serve His Majeſty in Church, State, Army, or Countrey.</p>
+            <p>And ſuch as can ſubſcrive, are to ſubſcrive the ſame on a large Sheet of Paper for every Paroch, and on performance thereof, the ſaids Commiſſioners are hereby ordained to deliver to every ſuch perſon a Teſtificate of the tenor following, to wit: <hi>We</hi> A. B. <hi>&amp;c. Do by theſe teſtifie and declare that</hi> C. <hi>in the Paroch of</hi> D. <hi>did compear before us, and on his, or her ſolemn Oath, before Almighty God, did abjure and renounce the late Traiter of is Apologetical Declaration in ſo far as it declares War againſt His Majeſty, and aſſerts, that it is lawful to kill ſuch as ſerve His Majeſty in Church, State, Army, or Countrey.</hi>
+            </p>
+            <p>Which Teſtificate we declare is to ſerve for a free Paſs to all who have the ſame for all timethereafter, and ſhall preſerve them from all moleſtation and trouble in going about their Affairs; and if it ſhall happen any of the ſaids Teſtificats: to be loſt by the perſons who receive the ſame, that they are to have them renewed by theſe who firſt granted them, and the Miniſters of the reſpective Paroches; Certifying here<g ref="char:EOLhyphen"/>by all ſuch who ſhall adventure to travel without a Teſtificate in manner foreſaid, that they ſhall be holden and uſed as Concurrers with the foreſaids excera<g ref="char:EOLhyphen"/>ble Rebels, and as guilty of the foreſaid treaſonable Declaration, and acceſſory to the deſigns therein. And to the effect this Our Will and Pleaſure may be made knowen to all concerned, We hereby Require and Command all Our Sheriffs, and Magiſtrats of Our Royal Burrows <hi>reſpective,</hi> to cauſe intimate the ſame at all the Paroch Churches within this Kingdom, upon the Lords day, after Divine Service, and that with all poſſible diligence. And that the He<g ref="char:EOLhyphen"/>retors, Liferenters, and Wodſetters in every Paroch, give in their foreſaids Liſt before the regular incumbent Miniſter, and ſuch a perſon or perſons as ſhall be appointed by the Sheriff and Stewart of each Shire and Stewartry, within the ſpace of fifteen days after the ſaid intimation at the Paroch Churches <hi>reſpectivè</hi>; And in caſe it ſhall happen any to be abſent from their R<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſidences at that time upon lawful occaſion, their Maſter ſhall take a compe<g ref="char:EOLhyphen"/>tent day to produce them, conform to the diſtance of the place; and all who are otherways abſent, and for whom their Maſters will not engage in manner foreſaid, ſhall be conſidered as Fugitives, their Families ſeized on in order to their Tranſportation, and their Goods inventar'd and ſecur'd; And it is here<g ref="char:EOLhyphen"/>by declared, that the Maſter ſhall be anſwerable that none of the Goods of the ſaids perſons be taken off the Ground until thoſe employed by us ſhall intromit with them: And if any of theſe who compear ſhall own the ſaid Traiterous Declaration, and the principles and practices therein aſſerted, or ſhall refuſe to diſown the ſame in manner above-preſcrived, the ſaids Commiſſioners are hereby required inſtantly to ſecure and apprehend their perſons, and carry them to the next Burgh, Sheriff, Bailiff of Regality, or any of Our Forces w<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o are neareſt; and any who ſhall receive them, are hereby Required to carry them to the ſureſt Priſon next adjacent, there to be kept, till Our Council be acquainted therewith and give order therein; and the Apprehenders are hereby impowered to call to their A<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ance, ſuch of Our Lieges as they ſhall think fit, for executing of Our Commands; And if any ſhall refuſe to con<g ref="char:EOLhyphen"/>cur, We Declare, they are to be holden as Concurrers with, and Aſſiſters of theſe Rebels; And that if any Heretor, Liferenter, or Wodſetter ſhall fail in doing as aforeſaid, they ſhall be holden as guilty of the foreſaids Crimes, and purſued and puniſhed accordingly: And we do hereby ſtrictly prohibite and diſcharge all Our Leiges whither to Burgh or Land, as well all other Houſe-keepers, as Hoſtler-houſes, Inn-keepers, and other Houſes of common, reſet, to harbour, lodge, or entertain any perſon whatſomever, unleſs they have ſuch Certificates as is above preſcrived under the pain of being puniſhed as Reſetters of, and Intercommuners with Rebels. And for further ſecurity and prevention of Fraud, It is hereby Required, that the uſers and havers of the foreſaids Teſtificates, ſhall be holden and oblig'd to ſwear, that theſe Teſtificates are true and unforg'd Teſtificates, and that they are the perſons mentioned and ex<g ref="char:EOLhyphen"/>preſs'd in them, if the ſame ſhall be required of them. And Finally, for the encouragement of ſuch as ſhall diſcover any of the ſaids Traitors and Aſſaſſins, or any who have been any wayes in acceſſion to the ſaid Traiterous and Damnable Paper, or to the publiſhing and ſpreading of the ſame, as ſaid is, or to have been a Member of the ſaids pretended Societies and Fellowſhips, <hi>&amp;c.</hi> We hereby declare and enſure to them, and every one of them, who ſhall diſcover any of theſe Aſſaſſinats, or pretended Members, a Reward of the ſum of five hundred Merks Scots for each of them who ſhall be diſ<g ref="char:EOLhyphen"/>covered, ſo as to be apprehended, and found guilty. And to the effect, that all Our Lieges may have notice of Our Pleaſure in the Premiſſes; Our Will is, and We Charge you ſtrictly and Command, that incontinent, theſe Our Letters ſeen, ye paſs to the Mercat Croſs of <hi>Edinburgh,</hi> and remanent Mercat Croſſes of the whole Head Burghs of the Shires of this Kingdom, and there, in Our Name and Authority, by open Proclamation, make publica<g ref="char:EOLhyphen"/>tion of theſe Preſents, that all perſons concerned may give exact and punctual obedience thereunto, as they will be anſwerable at their higheſt peril. And We Ordain theſe Preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>the thretty day of <hi>December</hi> 1684. years; and of Our Reign, the threttieth and ſixth Year.</date>
+               </dateline>
+               <signed>Per actum Dominorum Secreti Concilii. <hi>WILL. PATERSON,</hi> Cls. Stl. Concilii.</signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Edinburgh, <hi>Printed by the Heir of</hi> Andrew Anderſon, <hi>Printer to His moſt Sacred Majeſty, Anno</hi> DOM. 1685.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
